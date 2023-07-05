@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(255, 89, 89);
+    background-color: linear-gradient;
+}
+
+h1  {
+    color: white;
+}
+
+h3  {
+    color:white;
+}
+
+#group1,#group2,#group3,#group4 {
+    display:inline-block;
+    margin:70px;
+
+}
+
+#image1 {
+    height:400px;
+    width:400px;
+}
+
+#image2 {
+    height:400px;
+    width:400px;
+}
+
+#image3 {
+    height:400px;
+    width:400px;
+}
+
+#image4 {
+    height:400px;
+    width:400px;
+}
