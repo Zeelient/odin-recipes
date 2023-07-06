@@ -11,9 +11,19 @@ h3  {
     color:white;
 }
 
-#group1,#group2,#group3,#group4 {
-    display:inline-block;
-    margin:70px;
+#left {
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    margin:80px;
+
+}
+
+#right {
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    /*margin:80px;*/
 
 }
 
