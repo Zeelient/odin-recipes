@@ -3,37 +3,50 @@ body {
     background-color: linear-gradient;
 }
 
+
+
 h1  {
     color: white;
+    text-decoration: underline;
+    margin-top:60px
 }
 
 h3  {
     color:white;
 }
 
+a {
+    padding-left:36%;
+}
+
 #left, #right{
     float: right;
     padding-left:40px;
     padding-top:40px;   
+    padding-right:100px; 
     padding-bottom:40px; 
     display:flex;
     flex-direction:column;
-
-
 }
+
 
 .group {
     float: left;
     margin-top:30px;
     margin-left:300px;
-    padding-left:200px;
+    padding-left:140px;
     flex-direction:column;
+}
+
+#link1 {
+    text-align:right;
 }
 
 #image1 {
     height:400px;
     width:400px;
-    padding-bottom:40px; 
+    padding-bottom:80px;
+    border-style:solid; 
 }
 
 #image2 {
@@ -45,7 +58,7 @@ h3  {
 #image3 {
     height:400px;
     width:400px;
-    padding-bottom:40px; 
+    padding-bottom:80px; 
 }
 
 #image4 {
