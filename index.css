@@ -52,16 +52,18 @@ a {
 #image2 {
     height:400px;
     width:400px;
-    
+    border-style:solid; 
 }
 
 #image3 {
     height:400px;
     width:400px;
     padding-bottom:80px; 
+    border-style:solid; 
 }
 
 #image4 {
     height:400px;
     width:400px;
+    border-style:solid; 
 }
