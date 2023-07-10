@@ -45,25 +45,29 @@ a {
 #image1 {
     height:400px;
     width:400px;
-    padding-bottom:80px;
     border-style:solid; 
+    border-width:5px;
+    margin-bottom:80px;
 }
 
 #image2 {
     height:400px;
     width:400px;
     border-style:solid; 
+    border-width:5px;
 }
 
 #image3 {
     height:400px;
     width:400px;
-    padding-bottom:80px; 
     border-style:solid; 
+    border-width:5px;
+    margin-bottom:80px;
 }
 
 #image4 {
     height:400px;
     width:400px;
     border-style:solid; 
+        border-width:5px;
 }
