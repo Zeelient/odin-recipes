@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(255, 89, 89);
+    background-color: linear-gradient;
+}
+
+img {
+    height:400px;
+    width:400px;
+}
